@@ -199,7 +199,7 @@ These steps sit inside the “Restoration Process” within the overall Incident
     <tr>
       <td>Management Escalation</td>
       <td>On-call Management Team</td>
-      <td>escalation@t3n.zendesk.com</td> MASON TEST
+      <td>escalation@t3n.zendesk.com MASON</td> MASON TEST
     </tr>
     <tr>
       <td>Security SME Engagement</td>
